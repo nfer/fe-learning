@@ -6,6 +6,13 @@
   background: url("./bg.jpg") center/cover no-repeat;
 }
 
+.header {
+  font-size: 0.8rem;
+  width: 100%;
+  text-align: center;
+  margin: 0.2rem;
+}
+
 .icon-item {
   width: 1.8rem;
   height: 3.14rem;
