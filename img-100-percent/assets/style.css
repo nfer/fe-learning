@@ -1,0 +1,19 @@
+.container {
+  position: relative;
+  width: 16rem;
+  height: 7.45rem;
+  text-align: center;
+  background: url("./bg.jpg") center/cover no-repeat;
+}
+
+.icon-item {
+  width: 1.8rem;
+  height: 3.14rem;
+  padding-top: 1.75rem;
+  display: inline-block;
+  margin-right: 1.71rem;
+}
+
+.icon-item:last-of-type {
+  margin-right: 0;
+}
